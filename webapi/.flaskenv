@@ -1,4 +1,4 @@
-FLASK_APP=webapi
+FLASK_APP=webapi.api
 FLASK_ENV=development
 FLASK_DEBUG=1
 FLASK_RUN_PORT=8000

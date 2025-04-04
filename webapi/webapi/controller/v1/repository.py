@@ -1,3 +1,4 @@
+from webapi.model import Repository
 from webapi.util import jsonify
 
 

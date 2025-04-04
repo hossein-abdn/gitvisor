@@ -1,4 +1,5 @@
 from webapi.model import Repository
+from webapi.schema.v1 import RepositorySchema
 from webapi.util import jsonify
 
 
